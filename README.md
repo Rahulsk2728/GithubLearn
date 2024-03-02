@@ -1,3 +1,3 @@
 # GithubLearn
 This is github practice 
-Author - Rahul S K 
+Author - Rahul S K (Code)
